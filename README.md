@@ -36,4 +36,3 @@ Repository to host plugins and related issues, and requests for
 ---
 
 The developer of this application does not have any affiliation with the content providers available.
-# Plugins
